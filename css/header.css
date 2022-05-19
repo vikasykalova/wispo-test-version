@@ -1,0 +1,181 @@
+header {
+  max-width: 1920px;
+}
+
+.menu-icon__text {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+}
+
+.header-items__top__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-items__top__logo {
+  margin-right: 44px;
+  padding-top: 21px;
+  padding-bottom: 17px;
+}
+
+.header-items__top__text-wrapper {
+  padding-right: 20px;
+}
+
+.header-items__top__text-wrapper__review {
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+}
+
+p.underlined {
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 5px;
+}
+
+.star {
+  height: 14px;
+  width: 14px;
+  margin-right: 10px;
+}
+
+.header-items__top__text-wrapper-last {
+  padding-right: 168px;
+}
+.underline {
+  padding-top: 3px;
+  height: 1px;
+}
+
+.header-items__top__links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-right: 244px;
+}
+
+.header-items__top__text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-items__top__phone {
+  /* padding-left: 250px; */
+}
+
+.header-items__top__phone__call-us {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  padding-top: 5px;
+  padding-left: 28px;
+}
+
+.header-items__top__phone__call-us img {
+  padding-right: 5px;
+}
+
+.header-items__top__phone__call-us__logo {
+  width: 18px;
+  height: 18px;
+}
+
+.header-items__top__phone__call-us__logo img {
+  width: 18px;
+  height: 18px;
+}
+
+.header-items__top__phone__number {
+  display: flex;
+  align-items: center;
+  padding-top: 5px;
+}
+
+.phone-number {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.header-items__bottom {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.header__menu-items {
+  display: flex;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.item-with-spacer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__menu-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  padding-right: 57.22px;
+  padding-left: 57.22px;
+}
+
+.wrapper-catalog {
+  margin-right: 29px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 20px;
+}
+.icon {
+  padding-right: 10px;
+}
+.text {
+  padding-right: 10px;
+}
+.icon-see-more {
+  cursor: pointer;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+}
+.item__icon {
+  padding-right: 10px;
+}
+.item-1__text {
+}
+.item-2 {
+}
+
+.item-2__text {
+}
+.icon-see-more {
+  width: 7px;
+  height: 3px;
+}
+.item-3 {
+}
+
+.item-3__text {
+}
+.item-4 {
+}
+
+.item-4__text {
+}
+.item-5 {
+}
+
+.item-5__text {
+}
