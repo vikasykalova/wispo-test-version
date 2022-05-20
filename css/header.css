@@ -152,8 +152,10 @@ p.underlined {
 .text {
   padding-right: 10px;
 }
-.icon-see-more {
+.icon-see-more a {
   cursor: pointer;
+  width: 7px;
+  height: 3px;
 }
 
 .item {

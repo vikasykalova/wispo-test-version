@@ -1,0 +1,88 @@
+.main-block__content {
+  display: flex;
+}
+.main-block__content-text {
+  padding-right: 100px;
+  padding-left: 75px;
+}
+
+.main-block__content-text__headings {
+}
+
+.main-block__content-text__headings h1 {
+  padding-top: 120px;
+  padding-bottom: 60px;
+}
+
+.main-block__content-text__headings h4 {
+  width: 673px;
+  padding-bottom: 60px;
+}
+
+.main-btn {
+  padding-bottom: 40px;
+}
+
+.main-btn button {
+}
+
+.tips__wrapper {
+  padding-bottom: 120px;
+}
+
+.main-block__content-text__tips {
+}
+
+.tip {
+  display: flex;
+  align-items: center;
+  width: 400px;
+  padding-bottom: 40px;
+}
+
+.tip__icon {
+  background: #ffffff;
+  box-shadow: 0px 10px 30px -6px rgba(35, 25, 4, 0.15);
+  border-radius: 10px;
+}
+.tip__text p {
+  width: 304px;
+  padding-left: 20px;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.tip-1__tip2 {
+  display: flex;
+}
+
+.tip-3__tip4 {
+  display: flex;
+}
+
+.main-block__content-right {
+  position: relative;
+  background-image: url(../img/bgimage-main.png);
+  width: 100%;
+}
+
+.big-image {
+}
+
+.subtitle-with-smile {
+  background: #ffffff;
+  box-shadow: 0px 10px 30px -6px rgba(35, 25, 4, 0.15);
+  border-radius: 100px;
+  width: 464px;
+}
+
+.subtitle-with-smile img {
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  left: 207px;
+  top: 633px;
+}
